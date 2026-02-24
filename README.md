@@ -16,7 +16,7 @@ Website:
 https://socialexchangehub.com
 
 Medium:
-[https://medium.com/@socialmediarankedup](https://medium.com/@SocialExchangeHub)
+https://medium.com/@SocialExchangeHub
 
 Dev.to:
 https://dev.to/socialexchangehub
