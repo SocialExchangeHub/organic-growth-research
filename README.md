@@ -1,22 +1,29 @@
 # Organic Growth Research (2026)
 
-This repository documents research and structured breakdowns of modern social media recommendation systems.
+This repository documents structured research into modern social media recommendation systems.
 
-Focus Areas:
+## Focus Areas
 
-- YouTube retention mechanics
-- CTR optimization models
-- Engagement velocity systems
-- Distribution testing phases
+- Click-through rate (CTR) modeling
+- Audience retention mechanics
+- Watch-time optimization
+- Engagement velocity testing
+- Distribution expansion phases
 - Algorithmic trust signals
 
-This research supports structured organic growth strategies without paid advertising.
+## Platforms Studied
+
+- YouTube recommendation system
+- Instagram engagement ranking
+- Cross-platform visibility loops
+
+This research supports structured organic growth strategies without paid acquisition.
 
 Website:
 https://socialexchangehub.com
 
-Medium:
-https://medium.com/@SocialExchangeHub
-
 Dev.to:
 https://dev.to/socialexchangehub
+
+Medium:
+https://medium.com/@SocialExchangeHub
