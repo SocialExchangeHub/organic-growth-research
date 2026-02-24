@@ -1,6 +1,3 @@
-# organic-growth-research
-Research notes and behavioral breakdowns of social media recommendation systems (2026).
-
 # Organic Growth Research (2026)
 
 This repository documents research and structured breakdowns of modern social media recommendation systems.
